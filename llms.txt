@@ -1,0 +1,47 @@
+# Mahavishnu Essakimuthu
+
+> Mahavishnu Essakimuthu is an entrepreneurial technologist and final-year B.Sc. Computer Science student saving B2B businesses 40+ hours weekly through AI automation. He is the founder of two agencies and has built 25+ shipped projects, and is based in Mumbai, India.
+
+Website: https://mahavishnu.example
+Email: mahavishnuessakimuthu@gmail.com
+LinkedIn: https://www.linkedin.com/in/mahavishnu-essakimuthu
+GitHub: https://github.com/mahavishnu47
+
+## About
+
+Mahavishnu Essakimuthu is an entrepreneurial technologist and final-year B.Sc. Computer Science student at Ramnarain Ruia College, Mumbai. He ships working products fast: he founded two agencies while building 25+ projects across full-stack SaaS, Chrome extensions, scrapers and AI pipelines.
+
+He founded GrowURevenue in 2024, a bootstrapped B2B lead-generation agency built on AI prospecting and no-code automation, and Workwise Automations in 2025, an AI automation and creative agency in Mumbai that serves local businesses: producing AI video ads, engineering an automated AI email agent with intelligent ticket routing and human-escalation labels, and building client-specific n8n and Zapier workflows.
+
+His skills span AI automation (n8n, Zapier, LangChain, Hugging Face, prompt engineering, AI agents), web (Next.js, React, TypeScript, JavaScript, Supabase, Vercel, HTML/CSS), programming (Python, Java, C++, SQL, Shell), no-code (bolt.new, Clay, Apollo, Chrome extensions, BeautifulSoup, crawl4ai) and business (lead generation, B2B sales, CRM, client outreach, digital funnels). He speaks English, Hindi and Tamil, and holds the AI Agents Fundamentals certification from Hugging Face (Feb 2025).
+
+## Selected projects
+
+- SwiftBill: a full-stack invoice and expense management app with GST calculation, multi-currency support, PDF export, client/vendor management and secure NextAuth login.
+- AI Animated Concept Explainer: enter any topic and it generates interactive animated explainer videos with AI, with a community layer for peer discussion.
+- Video Automation Pipeline: a Python pipeline that scales 45 source assets into 916 unique video variants, used in production for AI video-ad work at Workwise Automations.
+- AI Note-Taking App: a full-stack AI note assistant (bolt.new + Supabase, deployed on Vercel) with smart note organisation and AI-generated summaries.
+- Logistics Billing Desktop App: a Python desktop billing application for a logistics company, with invoice creation, payment tracking and automated export.
+- Shark Tank India Data Scraper: an automated scraper that collects and cleans all Shark Tank India deal data, with URL deduplication and CSV export.
+- Chrome Location Changer Extension: a Manifest V3 extension that sets a default Google Search country via declarativeNetRequest, for CAPTCHA-free region switching.
+- Crawl4AI Web Scraping Suite: an async Python scraper suite using crawl4ai and BeautifulSoup to extract documentation URLs and compile clean markdown for AI ingestion.
+- Random Chat Online: a real-time anonymous chat platform with Omegle-style random matching.
+- Football Arbitrage App: a Python app that scans live football betting odds across bookmakers to surface arbitrage opportunities.
+- Daily Bhagavad Gita App: a TypeScript app that surfaces a daily Bhagavad Gita verse with context, commentary and sharing.
+- Basketball Training Tracker: a full-stack training app for logging drills, tracking progress metrics and visualising performance.
+
+All projects: https://github.com/mahavishnu47
+
+## FAQ
+
+### Who is Mahavishnu Essakimuthu?
+An entrepreneurial technologist and final-year B.Sc. Computer Science student saving B2B businesses 40+ hours weekly through AI automation: founder of two agencies and builder of 25+ shipped projects.
+
+### What does he build?
+Full-stack SaaS, Chrome extensions, scrapers and AI pipelines, plus AI automation for local businesses through his agency, Workwise Automations.
+
+### How do I contact him?
+Email mahavishnuessakimuthu@gmail.com, or reach out on LinkedIn: https://www.linkedin.com/in/mahavishnu-essakimuthu
+
+### Where can I see his work?
+https://github.com/mahavishnu47
